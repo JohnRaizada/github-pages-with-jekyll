@@ -1,3 +1,7 @@
+---
+title: "Your-awesome-title"
+date: 2020-08-04
+---
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
